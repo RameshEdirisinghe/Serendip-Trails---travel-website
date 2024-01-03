@@ -1,0 +1,82 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.frame-16-uWV {
+  box-sizing: border-box;
+  padding: 15.5rem 8.5rem 0.4rem 8.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../frame-16-bg.png');
+}
+.frame-16-uWV .auto-group-rn45-E2y {
+  margin: 0rem 27.3rem 17.1rem 27.3rem;
+  box-sizing: border-box;
+  padding: 3.3rem 5.4rem 10.2rem 5.3rem;
+  width: calc(100% - 54.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.0599999987);
+  flex-shrink: 0;
+}
+.frame-16-uWV .auto-group-rn45-E2y .term-of-use-XGy {
+  margin-bottom: 3.9rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1825;
+  color: #000000;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-16-uWV .auto-group-rn45-E2y .the-following-are-terms-of-a-legal-agreement-between-you-and-sri-lanka-tourism-promotion-bureau-by-accessing-browsing-or-using-this-website-you-acknowledge-that-you-have-read-understood-and-agree-to-be-bound-by-these-terms-and-to-comply-with-all-applicable-laws-and-regulations-if-you-do-not-agree-to-these-terms-please-do-not-use-this-website-sltpb-may-without-notice-to-you-at-any-time-revise-these-terms-of-use-and-any-other-information-contained-in-this-website-by-updating-this-posting-sltpb-may-also-make-improvements-or-changes-in-the-products-services-or-programs-described-in-this-site-at-any-time-without-notice-3FK {
+  max-width: 109.7rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1825;
+  color: #000000;
+  font-family: Jura, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-16-uWV .line-1-tfF {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-16-uWV .sl-tourismore-website-all-rights-reserved-Ej7 {
+  margin-right: 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

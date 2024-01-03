@@ -1,0 +1,83 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.frame-17-ZfT {
+  box-sizing: border-box;
+  padding: 6.3rem 8.5rem 0.4rem 8.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../frame-17-bg.png');
+}
+.frame-17-ZfT .auto-group-cfjd-FAu {
+  margin: 0rem 3rem 8.8rem 2.1rem;
+  box-sizing: border-box;
+  padding: 0rem 1.6rem 2.8rem 1.8rem;
+  width: calc(100% - 5.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.3199999928);
+  flex-shrink: 0;
+}
+.frame-17-ZfT .auto-group-cfjd-FAu .privacy-policy-protecting-your-personalinformation-8Gd {
+  margin: 0rem 0rem 7.5rem 1.2rem;
+  max-width: 118.9rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-17-ZfT .auto-group-cfjd-FAu .at-serendip-trails-sts-we-recognize-the-importance-of-privacy-and-are-committed-to-safeguarding-the-personal-information-of-our-customers-and-website-visitors-this-privacy-policy-outlines-the-types-of-information-we-collect-how-we-use-it-and-with-whom-we-share-it-by-using-the-serendip-trails-website-you-are-agreeing-to-the-practices-described-in-this-privacy-policy-information-collection-and-use-sts-collects-information-from-you-in-several-ways-including-through-our-website-our-mobile-application-and-other-means-the-types-of-information-we-collect-include-personal-information-this-includes-information-that-can-be-used-to-identify-you-such-as-your-name-email-address-mailing-address-phone-number-and-payment-information-we-collect-this-information-when-you-make-a-purchase-create-an-account-or-otherwise-interact-with-us-usage-information-this-includes-information-about-your-use-of-our-website-and-services-such-as-your-ip-address-browser-type-the-pages-you-visit-the-time-you-spend-on-our-site-and-other-usage-data-device-information-this-includes-information-about-the-device-you-use-to-access-our-website-such-as-the-type-of-device-its-operating-system-and-its-unique-device-identifier-we-use-the-information-we-collect-to-provide-you-with-the-products-and-services-you-request-to-improve-our-website-and-services-and-to-communicate-with-you-we-may-also-use-your-information-to-send-you-promotional-materials-and-other-marketing-communications-information-sharing-and-disclosure-serendip-trails-site-does-not-sell-rent-or-otherwise-share-your-personal-information-with-third-parties-for-their-marketing-purposes-without-your-consent-however-we-may-share-your-information-with-third-parties-in-the-following-circumstances-1-we-may-share-your-information-with-service-providers-who-perform-services-on-our-behalf-such-as-payment-processing-shipping-and-email-management-2-we-may-disclose-your-information-as-required-by-law-such-as-in-response-to-a-subpoena-or-court-order-or-to-comply-with-regulatory-requirements-3-in-the-event-that-sts-is-acquired-by-or-merged-with-another-company-we-may-transfer-your-information-to-the-new-company-security-sts-takes-reasonable-measures-to-protect-your-personal-information-from-unauthorized-access-use-or-disclosure-we-use-industry-standard-encryption-technologies-to-transmit-your-sensitive-information-such-as-your-payment-information-over-the-internet-however-no-method-of-transmission-over-the-internet-or-method-of-electronic-storage-is-100-secure-therefore-while-we-strive-to-use-commercially-reasonable-means-to-protect-your-information-we-cannot-guarantee-its-absolute-security-cookies-and-tracking-technologies-sts-uses-cookies-and-other-tracking-technologies-to-collect-information-about-your-use-of-our-website-and-services-cookies-are-small-text-files-that-are-stored-on-your-device-when-you-visit-our-website-they-allow-us-to-remember-your-preferences-and-to-provide-you-with-a-more-personalized-experience-you-can-control-the-use-of-cookies-through-your-browser-settings-however-disabling-cookies-may-affect-your-ability-to-use-certain-features-of-our-website-and-services-links-to-other-websites-our-website-may-contain-links-to-other-websites-we-are-not-responsible-for-the-privacy-practices-of-these-websites-and-we-encourage-you-to-read-their-privacy-policies-changes-to-this-privacy-policy-sts-may-update-this-privacy-policy-from-time-to-time-if-we-make-any-material-changes-to-this-privacy-policy-we-will-notify-you-by-posting-the-updated-policy-on-our-website-your-continued-use-of-our-website-after-any-changes-have-been-made-constitutes-your-acceptance-of-the-revised-privacy-policy-for-further-inquiries-or-if-you-have-any-questions-please-email-us-email-Gn9 {
+  max-width: 166.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-17-ZfT .line-1-GS1 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-17-ZfT .sl-tourismore-website-all-rights-reserved-AXP {
+  margin-right: 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,124 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.frame-13-Xp9 {
+  box-sizing: border-box;
+  padding: 1.6rem 10.1rem 2.2rem 10.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../rectangle-14-bg.png');
+  background-color: #ffffff;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd {
+  margin: 0rem 96.8rem 32.6rem 0rem;
+  width: 75rem;
+  height: 51.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .frame-5-9ad {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 24.3rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .frame-4-5UH {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 32rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .frame-6-cj7 {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 39.6rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .frame-3-kaR {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .about-us-JM3 {
+  width: 33.2rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.64rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .at-sl-tourismore-we-believe-that-travel-should-be-sustainable-and-responsible-we-are-committed-to-minimizing-our-impact-on-the-environment-and-supporting-local-communities-wherever-we-go-we-also-believe-in-providing-our-customers-with-exceptional-service-every-step-of-the-way-bL9 {
+  width: 69.2rem;
+  height: 19.5rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 18.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.215;
+  letter-spacing: 0.16rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jolly Lodger, 'Source Sans Pro';
+}
+.frame-13-Xp9 .auto-group-gykh-rLd .rectangle-15-BJM {
+  width: 75rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.2099999934);
+}
+.frame-13-Xp9 .sl-tourismore-website-all-rights-reserved-uk9 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
